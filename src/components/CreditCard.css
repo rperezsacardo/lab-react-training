@@ -1,0 +1,22 @@
+.credit-card img {
+  align-content: flex-end;
+  margin-left: auto;
+  max-width: 5em;
+}
+
+.credit-card {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-inline-size: 30%;
+  padding: 2em 5em;
+  margin: 1em;
+  border-radius: 5%;
+}
+
+.credit-card p {
+  text-align: left;
+  margin: 0;
+}

@@ -1,0 +1,12 @@
+.idCard {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: coral;
+}
+
+.IdCard div {
+  display: flex;
+  flex-direction: column;
+  background-color: aquamarine;
+}
